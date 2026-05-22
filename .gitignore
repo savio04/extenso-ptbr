@@ -1,0 +1,18 @@
+# artefatos de teste e cobertura
+coverage.out
+*.test
+
+# binários gerados por go build
+/extenso-ptbr
+
+# diretório de experimentos locais
+tmp/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
